@@ -5,8 +5,7 @@ date: "April 2017"
 header-includes:
    - \usepackage{amsmath, amsthm, amssymb, lipsum}
 output:
-  pdf_document: default
-  html_document: default
+  github_document: default
 ---
 <!-- From /Users/mac/Dropbox/MA/MAthesis/thesis/estimation/LM/MLEExample -->
 Similar alogrithms are implemented in R and Python. 
